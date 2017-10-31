@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__26-[LineView handleLineData]_block_invoke.22:LineView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_positionDataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LineView drawRect:]:LineView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[UIColor colorWithRed:100/255 green:100/255 blue:100/255 alpha:1.0]">
+            </PersistentString>
+            <PersistentString
+               value = "_lineColor.CGColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LineView handleLineData]:LineView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TopNavViewController pushViewController:animated:]:TopNavViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.viewControllers">
+            </PersistentString>
+            <PersistentString
+               value = "[UIScreen mainScreen].bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HomePageViewController viewDidLoad]:HomePageViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "match.range">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
